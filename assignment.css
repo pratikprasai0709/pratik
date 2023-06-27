@@ -1,0 +1,143 @@
+.bar{
+    padding-left: 120px; padding-right: 120px; padding-top: 30px; padding-bottom: 20px;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+}
+.text1{
+    display: flex;
+    justify-content:center;
+}
+.text1 h1{
+    color: white;
+}
+.star{
+    display: flex;
+    justify-content: center;
+}
+.star i{
+    margin: 20px;
+}
+.star hr{
+    background-color: rgb(250, 245, 245);
+    width: 200px;
+    height: 8px;
+    margin: 20px; 
+}
+
+.banner img{
+    height: 250px;
+    width: 850px;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+.section1{
+    background-color:#1abc9c;
+    height: 600px;
+}
+.graphic{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.graphic p{
+    color: white;
+}
+.text2{
+    display: flex;
+    justify-content: center;
+
+}
+.star2{
+    display: flex;
+    justify-content: center;
+}
+.star2 i{
+    margin: 20px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    width:auto;
+    height: auto;
+    flex-direction: column;
+    align-items: center;
+
+}
+.picc{
+    width: 355px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ABOUT{
+    margin-top: 20px;
+}
+ .star3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .hr3{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    height: 8px;
+    margin: 20px;
+}
+.section3{
+    background-color: #1abc9c;
+    color: white;
+    height: auto;
+}
+.pdiv{
+    display: flex;
+    justify-content: center;
+   width: auto;
+   height: 200px;
+
+}
+.pabout{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: 20px;
+}
+.contact{
+    display: flex;
+    justify-content: center;
+}
+.hr4{
+    background-color:  #1e1a1a;
+    width: 200px;
+    height: 8px;
+    margin: 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    height: 250px;
+}
+.all{
+    display: flex;
+    justify-content: space-between;
+}
+.location{
+    margin: 50px;
+}
+.Freelance{
+    width: 200px;
+    height: auto;
+}
+
+.web{
+ margin: 50px;
+}
+.freelancer{
+    margin: 50px;
+}
